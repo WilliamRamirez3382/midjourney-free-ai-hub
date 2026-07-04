@@ -2,7 +2,7 @@
 
 midjourney-free-ai-hub 是一个围绕免费 AI 中转、低价 AI API、白送试用额度和顶级大模型接入整理的导航仓库。内容参考 Free2AI 当前项目结构，重点面向想低成本体验 GPT、Claude、Gemini、DeepSeek、Llama、Qwen、Grok、Mistral 等模型的用户。
 
-关联入口：[https://free2ai.pages.dev/](https://free2ai.pages.dev/)
+关联入口：[https://pay.kklt.lol/](https://pay.kklt.lol/)
 
 ## 项目定位
 
@@ -21,7 +21,7 @@ ChatGPT, OpenAI API, Claude API, Gemini API, DeepSeek V3, Llama, Qwen Max, Kimi,
 
 ## 推荐访问
 
-- 关联入口：[https://free2ai.pages.dev/](https://free2ai.pages.dev/)
+- 关联入口：[https://pay.kklt.lol/](https://pay.kklt.lol/)
 - Free2AI 导航：[https://free2ai.pages.dev/](https://free2ai.pages.dev/)
 - 推荐中转服务：[https://pay.kklt.lol/](https://pay.kklt.lol/)
 - 电报客服：[https://t.me/kkscshop](https://t.me/kkscshop)
